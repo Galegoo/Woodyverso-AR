@@ -1,0 +1,1 @@
+An Unity project focoused on AR, the target is be a business card, when you pass the camera on the card, a 3d model of the company's CEO shows up to talk to you and present the company's services. at the end a whats app button shows up in case you want to get in touch.
