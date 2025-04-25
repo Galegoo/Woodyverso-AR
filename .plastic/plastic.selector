@@ -1,4 +1,0 @@
-repository "Woodyverso AR@GabrielCompany@cloud"
-  path "/"
-    br "/main"
-    co "/main"
